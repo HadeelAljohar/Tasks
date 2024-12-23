@@ -1,0 +1,7 @@
+com\mycompany\task2\JakartaRestConfiguration.class
+com\mycompany\task2\CompleteTaskServlet.class
+com\mycompany\task2\ConnectionDB.class
+com\mycompany\task2\LoginServlet.class
+com\mycompany\task2\Tconnection.class
+com\mycompany\task2\resources\JakartaEE10Resource.class
+com\mycompany\task2\AddTaskServlet.class
